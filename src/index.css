@@ -1,0 +1,15 @@
+.project {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+
+  h3 {
+    margin: 0 0 5px 0;
+  }
+
+  p {
+    margin: 0;
+    color: #666;
+  }
+}
